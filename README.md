@@ -1,1 +1,1 @@
-# crpto-currency-
+# crypto-currency-
